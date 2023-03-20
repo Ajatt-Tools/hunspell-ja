@@ -1,5 +1,7 @@
 # hunspell_ja_JP
 
+[![AUR](https://img.shields.io/badge/AUR-install-blue.svg)](https://aur.archlinux.org/packages/hunspell-ja-git)
+
 Hunspell morphology dictionary for Japanese used in GoldenDict.
 
 Hunspell dictionary to deinflect all Japanese conjugated verbs to the
